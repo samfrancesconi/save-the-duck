@@ -1,0 +1,5 @@
+- Implement the enemy's turn to the direction,
+- Implement the visual cone,
+- Implement the AI to make the guard shoot,
+- Implement levels management,
+- Implement a leader board.  
